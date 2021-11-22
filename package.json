@@ -1,0 +1,11 @@
+{
+  "name": "crowd-funding-smartcontract",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Braian Vaylet",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^10.0.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
